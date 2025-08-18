@@ -24,7 +24,7 @@ Transfer Val is a machine learning project aimed at analyzing football player pe
 
 - Multiple tables were merged using SQL to generate a final comprehensive dataset.
 
-  ![Alt text](projects/Screenshot(7).png)
+  ![Alt text](code.png)
 
 **Data Processing**
 
